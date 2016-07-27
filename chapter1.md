@@ -5,7 +5,7 @@ attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 
---- type:NormalExercise lang:r xp:100 skills:1,3
+--- type:NormalExercise lang:r xp:100 skills:1,3 key:f5e5a65307
 ## Interactive Exercise Title
 
 This basic exercise will challenge you to assign a variable in R.
